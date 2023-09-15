@@ -1,5 +1,3 @@
-# Carlos's Blog
-
 First blog test try
 
 ``` python
